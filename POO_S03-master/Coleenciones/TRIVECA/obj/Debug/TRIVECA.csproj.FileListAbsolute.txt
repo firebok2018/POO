@@ -1,0 +1,9 @@
+D:\POO_S03\Coleenciones\TRIVECA\bin\Debug\TRIVECA.exe.config
+D:\POO_S03\Coleenciones\TRIVECA\bin\Debug\TRIVECA.exe
+D:\POO_S03\Coleenciones\TRIVECA\bin\Debug\TRIVECA.pdb
+D:\POO_S03\Coleenciones\TRIVECA\obj\Debug\TRIVECA.Form1.resources
+D:\POO_S03\Coleenciones\TRIVECA\obj\Debug\TRIVECA.Properties.Resources.resources
+D:\POO_S03\Coleenciones\TRIVECA\obj\Debug\TRIVECA.csproj.GenerateResource.cache
+D:\POO_S03\Coleenciones\TRIVECA\obj\Debug\TRIVECA.csproj.CoreCompileInputs.cache
+D:\POO_S03\Coleenciones\TRIVECA\obj\Debug\TRIVECA.exe
+D:\POO_S03\Coleenciones\TRIVECA\obj\Debug\TRIVECA.pdb

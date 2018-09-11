@@ -1,0 +1,10 @@
+D:\POO_S03\Empresa FULLCOPY\Empresa FULLCOPY\bin\Debug\Empresa FULLCOPY.exe.config
+D:\POO_S03\Empresa FULLCOPY\Empresa FULLCOPY\bin\Debug\Empresa FULLCOPY.exe
+D:\POO_S03\Empresa FULLCOPY\Empresa FULLCOPY\bin\Debug\Empresa FULLCOPY.pdb
+D:\POO_S03\Empresa FULLCOPY\Empresa FULLCOPY\obj\Debug\Empresa FULLCOPY.csprojAssemblyReference.cache
+D:\POO_S03\Empresa FULLCOPY\Empresa FULLCOPY\obj\Debug\Empresa_FULLCOPY.Form1.resources
+D:\POO_S03\Empresa FULLCOPY\Empresa FULLCOPY\obj\Debug\Empresa_FULLCOPY.Properties.Resources.resources
+D:\POO_S03\Empresa FULLCOPY\Empresa FULLCOPY\obj\Debug\Empresa FULLCOPY.csproj.GenerateResource.cache
+D:\POO_S03\Empresa FULLCOPY\Empresa FULLCOPY\obj\Debug\Empresa FULLCOPY.csproj.CoreCompileInputs.cache
+D:\POO_S03\Empresa FULLCOPY\Empresa FULLCOPY\obj\Debug\Empresa FULLCOPY.exe
+D:\POO_S03\Empresa FULLCOPY\Empresa FULLCOPY\obj\Debug\Empresa FULLCOPY.pdb

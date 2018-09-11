@@ -1,0 +1,10 @@
+D:\POO_S03\Coleenciones\Coleenciones\bin\Debug\Coleenciones.exe.config
+D:\POO_S03\Coleenciones\Coleenciones\bin\Debug\Coleenciones.exe
+D:\POO_S03\Coleenciones\Coleenciones\bin\Debug\Coleenciones.pdb
+D:\POO_S03\Coleenciones\Coleenciones\obj\Debug\Coleenciones.csprojAssemblyReference.cache
+D:\POO_S03\Coleenciones\Coleenciones\obj\Debug\Coleenciones.txtEmail.resources
+D:\POO_S03\Coleenciones\Coleenciones\obj\Debug\Coleenciones.Properties.Resources.resources
+D:\POO_S03\Coleenciones\Coleenciones\obj\Debug\Coleenciones.csproj.GenerateResource.cache
+D:\POO_S03\Coleenciones\Coleenciones\obj\Debug\Coleenciones.csproj.CoreCompileInputs.cache
+D:\POO_S03\Coleenciones\Coleenciones\obj\Debug\Coleenciones.exe
+D:\POO_S03\Coleenciones\Coleenciones\obj\Debug\Coleenciones.pdb
